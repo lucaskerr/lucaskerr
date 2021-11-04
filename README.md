@@ -1,5 +1,4 @@
-👋 Hi, I’m @lucaskerr
-📫 : daniel.kerr@ucsf.edu
+👋 Hi, I’m @lucaskerr! 
 
 <!---
 lucaskerr/lucaskerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
